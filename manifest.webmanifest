@@ -1,0 +1,13 @@
+{
+  "name": "팹 트레이닝",
+  "short_name": "팹 트레이닝",
+  "description": "반도체 공정 순서를 3D 팹에서 직접 해 보고 30초 면접 답변으로 연습하는 학습 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f5f8",
+  "theme_color": "#0f1720",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
